@@ -15,31 +15,6 @@ This repository was created with the intention of helping developers master thei
 
 **🚀 Considered by GitHub as one of the [top open source projects of 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
-## Community
-
-Feel free to submit a PR adding a link to your own recaps or reviews. If you want to translate the repo into your native language, please feel free to do so.
-
-All the translations for this repo will be listed below:
-
-- [Chinese](https://github.com/stephentian/33-js-concepts) — Re Tian
-- [Portuguese-BR](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
-- [Korean](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
-- [Spanish](https://github.com/adonismendozaperez/33-js-conceptos) — Adonis Mendoza
-- [Turkish](https://github.com/ilker0/33-js-concepts) — İlker Demir
-- [Russian](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
-- [Tiếng Việt](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
-- [Polish](https://github.com/lip3k/33-js-concepts) — Dawid Lipinski
-- [Persian](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
-- [Indonesian](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
-- [French](https://github.com/robinmetral/33-concepts-js) — Robin Métral
-- [Hindi](https://github.com/vikaschauhan/33-js-concepts) — Vikas Chauhan
-- [Greek](https://github.com/DimitrisZx/33-js-concepts) — Dimitris Zarachanis
-- [Japanese](https://github.com/oimo23/33-js-concepts) — oimo23
-- [German](https://github.com/burhannn/33-js-concepts) — burhannn
-- [Ukrainian](https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation) — Andrew Savetchuk
-- [Sinhala](https://github.com/ududsha/33-js-concepts) — Udaya Shamendra
-
-
 ---
 
 ## Table of Contents
@@ -961,13 +936,13 @@ All the translations for this repo will be listed below:
 
 ### Articles
 
- * 📜 [Use function composition in JavaScript — Rémi](https://www.codementor.io/michelre/use-function-composition-in-javascript-gkmxos5mj)
- * 📜 [Currying in JavaScript ES6 — Adam Bene](https://blog.benestudio.co/currying-in-javascript-es6-540d2ad09400)
- * 📜 [Composition and Currying Elegance in JavaScript — Pragyan Das](https://medium.com/@pragyan88/writing-middleware-composition-and-currying-elegance-in-javascript-8b15c98a541b)
- * 📜 [Functional JavaScript: Function Composition For Every Day Use — Joel Thoms](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10)
- * 📜 [Functional Composition: compose() and pipe() — Anton Paras](https://medium.com/@acparas/what-i-learned-today-july-2-2017-ab9a46dbf85f)
- * 📜 [Why The Hipsters Compose Everything: Functional Composing In JavaScript — A. Sharif](http://busypeoples.github.io/post/functional-composing-javascript/)
- * 📜 [A Gentle Introduction to Functional JavaScript pt III: Functions for making functions — James Sinclair](https://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-functions/)
+ * [x] 📜 [Use function composition in JavaScript — Rémi](https://www.codementor.io/michelre/use-function-composition-in-javascript-gkmxos5mj)
+ * [x] 📜 [Currying in JavaScript ES6 — Adam Bene](https://blog.benestudio.co/currying-in-javascript-es6-540d2ad09400)
+ * [x] 📜 [Composition and Currying Elegance in JavaScript — Pragyan Das](https://medium.com/@pragyan88/writing-middleware-composition-and-currying-elegance-in-javascript-8b15c98a541b)
+ * [x] 📜 [Functional JavaScript: Function Composition For Every Day Use — Joel Thoms](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10)
+ * [x] 📜 [Functional Composition: compose() and pipe() — Anton Paras](https://medium.com/@acparas/what-i-learned-today-july-2-2017-ab9a46dbf85f)
+ * [x] 📜 [Why The Hipsters Compose Everything: Functional Composing In JavaScript — A. Sharif](http://busypeoples.github.io/post/functional-composing-javascript/)
+ * [x] 📜 [A Gentle Introduction to Functional JavaScript pt III: Functions for making functions — James Sinclair](https://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-functions/)
  * 📜 [Curry And Compose (why you should be using something like ramda in your code) — jsanchesleao](https://jsleao.wordpress.com/2015/02/22/curry-and-compose-why-you-should-be-using-something-like-ramda-in-your-code/)
  * 📜 [Function Composition in JavaScript with Pipe — Andy Van Slaars](https://vanslaars.io/post/create-pipe-function/)
  * 📜 [Practical Functional JavaScript with Ramda — Andrew D'Amelio, Yuri Takhteyev](https://developer.telerik.com/featured/practical-functional-javascript-ramda/)
@@ -978,7 +953,7 @@ All the translations for this repo will be listed below:
  * 📜 [Currying vs Partial Application — Deepak Gupta](https://codeburst.io/javascript-currying-vs-partial-application-4db5b2442be8)
  * 📜 [Partial Application in ECMAScript 2015 — Ragan Wald](http://raganwald.com/2015/04/01/partial-application.html)
  * 📜 [Functional Composition in Javascript — Joe Cortopassi](https://joecortopassi.com/articles/functional-composition-in-javascript/)
- * 📜 [So You Want to be a Functional Programmer pt. I — Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
+ * [x] 📜 [So You Want to be a Functional Programmer pt. I — Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
  * 📜 [So You Want to be a Functional Programmer pt. II — Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a)
  * 📜 [So You Want to be a Functional Programmer pt. III — Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7)
  * 📜 [So You Want to be a Functional Programmer pt. IV — Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49)
